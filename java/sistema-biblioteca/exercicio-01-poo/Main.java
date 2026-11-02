@@ -8,7 +8,7 @@ public class Main {
         Livro l3 = new Livro("L003", "Eclipse", true);
         Revista r1 = new Revista("R001", "Contigo", true);
         Revista r2 = new Revista("R002", "Capricho", true);
-        Dvd d1 = new Dvd("D001", "Jota Quest", true );
+        Dvd d1 = new Dvd("D001", "Jota Quest", true ); // novo item para teste
         biblioteca.cadastrarItem(l1);
         biblioteca.cadastrarItem(l2);
         biblioteca.cadastrarItem(l3);
